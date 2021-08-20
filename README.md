@@ -1,5 +1,5 @@
 Estudiante 1: Diego Acosta 
-Estudiante 2: Mateo Cote
+Estudiante 2: Mateo Cote 
 
 #ISIS1225 - Estructura de un proyecto
 
